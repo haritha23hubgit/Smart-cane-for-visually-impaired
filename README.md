@@ -21,12 +21,12 @@ This project is a smart navigation aid for the visually impaired, designed using
 ## 📁 Files
 
 - `smart_cane_code.ino`: Arduino sketch with core logic
-- `block_diagram.jpg`: System architecture
-- `final_project_photo.jpg`: Final implementation (if available)
+- `block_diagram.pdf`: System architecture
+- `final_project_photo.pdf`: Final implementation 
 
 ## 💡 Future Improvements
 
-- Integrate all modules into a compact PCB
+- Add camera module to improve real time obstacle detection
 - Add voice guidance using speaker module
 - Improve GPS parsing for accurate location extraction
 
