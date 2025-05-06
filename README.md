@@ -1,4 +1,4 @@
-# Smart Cane for the Visually Impaired  (> Also see: [Breast Ultrasound Segmentation Project](https://github.com/your-username/breast-ultrasound-segmentation))
+# Smart Cane for the Visually Impaired  (> Also see: [Breast Ultrasound Segmentation Project](https://github.com/haritha23hubgit/Segmentation_unet-breast--cancer))
 
 
 This project is a smart navigation aid for the visually impaired, designed using an Arduino Nano and a set of sensors to detect obstacles, water, potholes, and trigger emergency communication.
